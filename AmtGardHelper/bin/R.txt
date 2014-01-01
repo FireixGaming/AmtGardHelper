@@ -242,6 +242,7 @@ int drawable abs__textfield_searchview_right_holo_dark 0x7f02006d
 int drawable abs__textfield_searchview_right_holo_light 0x7f02006e
 int drawable abs__toast_frame 0x7f02006f
 int drawable ic_launcher 0x7f020070
+int id ViewPager1 0x7f040032
 int id abs__action_bar 0x7f040020
 int id abs__action_bar_container 0x7f04001f
 int id abs__action_bar_subtitle 0x7f040011
@@ -281,7 +282,7 @@ int id abs__submit_area 0x7f04002f
 int id abs__textButton 0x7f040013
 int id abs__title 0x7f04001b
 int id abs__up 0x7f04000b
-int id action_settings 0x7f040032
+int id action_settings 0x7f040033
 int id disableHome 0x7f040009
 int id edit_query 0x7f040026
 int id homeAsUp 0x7f040006
@@ -321,7 +322,9 @@ int layout rules_main 0x7f030017
 int layout sherlock_spinner_dropdown_item 0x7f030018
 int layout sherlock_spinner_item 0x7f030019
 int layout spells_main 0x7f03001a
+int layout tab_fragment_listener 0x7f03001b
 int menu main 0x7f0b0000
+int string Welcome 0x7f09000e
 int string abs__action_bar_home_description 0x7f090000
 int string abs__action_bar_up_description 0x7f090001
 int string abs__action_menu_overflow_description 0x7f090002
@@ -337,10 +340,15 @@ int string abs__shareactionprovider_share_with 0x7f090006
 int string abs__shareactionprovider_share_with_application 0x7f090007
 int string action_settings 0x7f09000f
 int string app_name 0x7f09000d
-int string hello 0x7f09000e
-int string hello_world 0x7f090010
+int string favorites_title 0x7f090013
+int string ork_title 0x7f090010
+int string rules_title 0x7f090011
+int string spells_title 0x7f090012
 int style AppBaseTheme 0x7f0a0059
 int style AppTheme 0x7f0a005a
+int style DarkTheme 0x7f0a005c
+int style LightDarkActionBarTheme 0x7f0a005d
+int style LightTheme 0x7f0a005b
 int style Sherlock___TextAppearance_Small 0x7f0a0046
 int style Sherlock___Theme 0x7f0a0051
 int style Sherlock___Theme_DarkActionBar 0x7f0a0053

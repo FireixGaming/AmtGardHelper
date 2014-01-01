@@ -16,5 +16,9 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
+    
+        <style name="LightTheme" parent="@style/Theme.Sherlock.Light" />
+    <style name="DarkTheme" parent="@style/Theme.Sherlock" />
+    <style name="LightDarkActionBarTheme" parent="@style/Theme.Sherlock.Light.DarkActionBar" />
 
 </resources>

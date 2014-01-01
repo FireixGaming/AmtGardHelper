@@ -29,5 +29,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/actionbarsherlock"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

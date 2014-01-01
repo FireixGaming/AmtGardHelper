@@ -2,8 +2,11 @@
 <resources>
 
     <string name="app_name">Maven Quickstart</string>
-    <string name="hello">Hello AmtGardHelper!</string>
+    <string name="Welcome">Hello AmtGardHelper!</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="ork_title">Online Record Keeper</string>
+    <string name="rules_title">7.7 Rule Book</string>
+    <string name="spells_title">Spells Sheets</string>
+    <string name="favorites_title">Favorites</string>
 
 </resources>

@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.actionbarsherlock.view.Menu;
 
-public class MainActivity extends RoboSherlockFragmentActivity {
+public class MainActivity extends RoboSherlockFragmentActivity  {
 
     /**
      * Called when the activity is first created.
@@ -16,9 +16,12 @@ public class MainActivity extends RoboSherlockFragmentActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ThemeUtils.ApplyTheme(this);
         setContentView(R.layout.activity_main);
     }
 
+
+    
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 	// Inflate the menu; this adds items to the action bar if it is present.
