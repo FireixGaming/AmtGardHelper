@@ -1,4 +1,4 @@
 AmtGardHelper
 =============
 
-Create spell sheets, Keep track of Credits, and Keep up to date on the Rules!
+Create spell sheets, keep track of credits, and keep up to date on the rules!
