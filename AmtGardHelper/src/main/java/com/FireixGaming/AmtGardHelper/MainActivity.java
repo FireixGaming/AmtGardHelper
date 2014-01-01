@@ -1,11 +1,11 @@
 package com.FireixGaming.AmtGardHelper;
 
-import android.app.Activity;
+import roboguice.activity.RoboSherlockFragmentActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.Menu;
 
-public class HelloAndroidActivity extends Activity {
+import com.actionbarsherlock.view.Menu;
+
+public class MainActivity extends RoboSherlockFragmentActivity {
 
     /**
      * Called when the activity is first created.
@@ -22,7 +22,7 @@ public class HelloAndroidActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 	// Inflate the menu; this adds items to the action bar if it is present.
-	getMenuInflater().inflate(com.FireixGaming.AmtGardHelper.R.menu.main, menu);
+	getSupportMenuInflater().inflate(com.FireixGaming.AmtGardHelper.R.menu.main, menu);
 	return true;
     }
 
