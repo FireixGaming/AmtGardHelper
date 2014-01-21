@@ -1,3 +1,5 @@
+int array Kingdoms 0x7f0b0000
+int array Principalities 0x7f0b0001
 int attr actionBarDivider 0x7f01000e
 int attr actionBarItemBackground 0x7f01000f
 int attr actionBarSize 0x7f01000d
@@ -323,7 +325,7 @@ int layout sherlock_spinner_dropdown_item 0x7f030018
 int layout sherlock_spinner_item 0x7f030019
 int layout spells_main 0x7f03001a
 int layout tab_fragment_listener 0x7f03001b
-int menu main 0x7f0b0000
+int menu main 0x7f0c0000
 int string Welcome 0x7f09000e
 int string abs__action_bar_home_description 0x7f090000
 int string abs__action_bar_up_description 0x7f090001
