@@ -8,34 +8,5 @@
     <string name="rules_title">7.7 Rule Book</string>
     <string name="spells_title">Spells Sheets</string>
     <string name="favorites_title">Favorites</string>
-    <string-array name="Kingdoms">
-        <item >Desert Winds</item>
-        <item >Celestial</item>
-        <item >Iron Mountains</item>
-        <item >Freeholds</item>
-        <item >Black Spire</item>
-        <item >Burning Lands</item>
-        <item >Crystal Groves</item>
-        <item >Dragonspine</item>
-        <item >Goldenvale</item>
-        <item >Neverwinter</item>
-        <item >Northern Lights</item>
-        <item >Tal Dagore</item>
-        <item >Emerald Hills</item>
-        <item >Golden Plains</item>
-        <item >Rising Winds</item>
-        <item >Wetlands</item>
-        <item >Westmarch</item>
-    </string-array>
-    <string-array name="Principalities">
-        <item >Souls Crossing</item>
-        <item >Confederacy of Dreadmoor</item>
-        <item >Golden City</item>
-        <item >Northern Empire</item>
-        <item >Polaris</item>
-        <item >Rivermoor</item>
-        <item >StormHaven</item>
-        <item >Winters Edge</item>
-    </string-array>
 
 </resources>

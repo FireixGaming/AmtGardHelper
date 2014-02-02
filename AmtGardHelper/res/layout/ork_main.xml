@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
-    
 
-</LinearLayout>
+    <Spinner
+        android:id="@+id/KingdomSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Spinner
+        android:id="@+id/LandSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/KingdomSpinner"
+        android:layout_centerHorizontal="true" />
+
+    <Spinner
+        android:id="@+id/PlayerSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/LandSpinner"
+        android:layout_centerHorizontal="true" />
+
+    <Spinner
+        android:id="@+id/ClassSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/PlayerSpinner"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
